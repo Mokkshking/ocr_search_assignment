@@ -1,0 +1,5 @@
+streamlit
+transformers
+easyocr
+numpy
+re
