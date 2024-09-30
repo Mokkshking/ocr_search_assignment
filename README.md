@@ -6,6 +6,8 @@ The OCR Assignment App is a web-based application designed to perform Optical Ch
 **Qwen2VL**, a powerful vision-language model from Huggingface Transformers, for advanced image-to-text extraction and multi-modal capabilities.
 Users can upload images, extract text using both techniques, and perform keyword searches on the extracted content, with automatic highlighting of the matched keywords.
 
+![Interface](Streamlit_images/Screenshot (150).png)
+
 **Features**
 ## Dual OCR Methods:
 
