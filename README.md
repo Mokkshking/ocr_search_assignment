@@ -25,19 +25,13 @@ Streamlit Interface: A user-friendly UI where users can upload images, view extr
 ## Installation
 Clone the Repository:
 
-bash
-Copy code
 git clone https://github.com/Mokkshking/ocr_search_assignment.git
 cd ocr_search_assignment
 Install Dependencies: Use pip to install the required Python packages.
 
-bash
-Copy code
 pip install streamlit easyocr transformers pillow numpy torch
 Run the Application: Launch the Streamlit app locally by running:
 
-bash
-Copy code
 streamlit run app.py
 Application Workflow
 Image Upload:
